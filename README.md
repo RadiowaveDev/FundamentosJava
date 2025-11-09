@@ -1,6 +1,7 @@
-# Proyectos sobre Fundamentos de Java 21
+g# Proyectos sobre Fundamentos de Java 21
 
-Este repositorio demuestra la aplicación de conceptos clave de la programación en Java, desde los fundamentos de la sintaxis hasta la programación orientada a objetos, patrones de diseño y conectividad con bases de datos. [cite_start]Todos los proyectos están desarrollados utilizando **Java 21** [cite: 1] [cite_start]e **Intellij Idea**[cite: 1].
+Este repositorio demuestra la aplicación de conceptos clave de la programación en Java, desde los fundamentos de la sintaxis hasta la programación orientada a objetos, patrones de diseño y conectividad con bases de datos.
+Todos los proyectos están desarrollados utilizando **Java 21**  **Intellij Idea**.
 
 ## 1. Calculadora Aritmética (Consola)
 
@@ -45,3 +46,17 @@ Una aplicación multicapa que implementa un CRUD completo para la gestión de es
     * **Arquitectura por Capas:** El proyecto está estructurado en capas de dominio, conexión, datos y presentación.
     * **Base de Datos:** Conexión a **SQL Server** mediante **JDBC (Java Database Connectivity)**.
     * **Funcionalidad:** Implementación de operaciones CRUD completas para la entidad `Estudiante` (listar, agregar, modificar y eliminar).
+
+## 5. 📘 Proyecto Introductorio a Spring Boot – CRUD de Estudiantes
+
+Este proyecto es una aplicación Spring Boot de consola que implementa un CRUD (Crear, Leer, Actualizar, Eliminar) para la entidad Estudiante.
+El objetivo es mostrar la estructura básica de una aplicación con Spring Boot, Spring Data JPA y Lombok, utilizando un flujo de interacción simple mediante consola.
+
+🚀 Tecnologías utilizadas
+Java 21
+Spring Boot 3.5
+Spring Data JPA
+Lombok
+Microsoft SqlServer
+Logger / Scanner (para entrada de datos por consola)
+
